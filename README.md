@@ -1,2 +1,9 @@
-# wazuh
-Enhancing Security Operations with S.O.C Automation using SIEM &amp; SOAR
+# Enhancing Security Operations with S.O.C Automation using SIEM & SOAR
+The “SOC Automation with SIEM and SOAR” project underscores my proficiency in cybersecurity by seamlessly integrating SIEM and SOAR technologies within a simulated SOC environment. Leveraging Wazuh as the SIEM solution, Shuffle as the SOAR platform, and TheHive for incident response and case management, the project showcased a robust infrastructure designed to enhance threat detection and incident response capabilities. Through the deployment of Wazuh agents on Windows clients, real-time Sysmon logs were transmitted to the Wazuh manager, enabling proactive threat monitoring. Shuffle's customized triggers facilitated the automatic generation of alerts based on predefined rules, while advanced workflows, such as the detection of mimikatz, enriched incident data by integrating VirusTotal intelligence. The project's outcomes included reduced incident response times, bolstered threat detection capabilities, and empowered analysts with enriched contextual information, emphasizing the pivotal role of SIEM and SOAR technologies in modern cybersecurity operations.
+
+## Description of the Tools
+- Wazuh as the SIEM Solution: Wazuh, a robust open-source SIEM platform, was employed to collect, monitor, and analyze security event logs from various sources within the simulated environment. Its advanced capabilities facilitated real-time threat detection and response.
+- Shuffle as the SOAR Platform: Shuffle, an open-source SOAR platform, was utilized to automate security workflows and orchestrate response actions based on predefined triggers and rules. It seamlessly integrated with Wazuh to enhance incident response capabilities.
+- TheHive for Incident Response and Case Management: TheHive, a powerful open-source incident response platform, served as the central hub for managing and coordinating security incidents. It enabled security analysts to collaborate effectively and track the progress of investigations.
+
+### Project report: SOC Automation using SIEM & SOAR.pdf
